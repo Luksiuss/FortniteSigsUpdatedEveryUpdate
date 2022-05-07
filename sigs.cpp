@@ -6,7 +6,7 @@ FreeFN: 48 85 C9 0F 84 ? ? ? ? 53 48 83 EC 20 48 89 7C 24 30 48 8B D9 48 8B 3D ?
 GObject: 48 8B 05 ? ? ? ? 48 8B 0C C8 48 8B 04 D1
 CalculateSpread: E8 ? ? ? ? 48 8D 4B 28 E8 ? ? ? ? 48 8B C8
 SpreadCaller: 0F 57 D2 48 8D 4C 24 ? 41 0F 28 CC E8 ? ? ? ? 48 8B 4D B0 0F 28 F0 48 85 C9
-ProjectWorldToScreen: E8 ? ? ? ? 39 7D 38 4C 8B C6 48 8B 4D 40
+ProjectWorldToScreen: E8 ? ? ? ? 4C 8D 5C 24 ? 41 88 06 49 8B 5B 20 49 8B 73 30 49 8B 7B 38
 BoneMatrix : E8 ? ? ? ? 0F 10 40 68
 GetWeaponStats : 48 8B C4 48 89 38 20 12 56 57 41 54 67 55 41 56 41 57 48 8D A8 ? ? ? ? 32
 CalculateProjectionMatrixGivenView: 48 89 5C 24 ? 48 89 7C 24 ? 55 48 8D AC 24 ? ? ? ? 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 85 ? ? ? ? 48 8D 4D A0
